@@ -1,4 +1,5 @@
 #!/bin/bash
+#
 # This file is part of skel
 # Copyright (C) Ellis Rhys Thomas <e.rhys.thomas@gmail.com>
 # See COPYING file for licence details
