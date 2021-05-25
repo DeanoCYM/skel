@@ -12,9 +12,13 @@ repository is initialised.
 Run the script and follow the prompts:
 
 ```console
-./skel.sh
+$ ./skel.sh
 ```
+For easy use, create a symlink to somewhere on your $PATH, for example:
 
+```console
+$ ls -s skel.sh ~/.local/bin/skel
+```
 ### Dependencies
 
 * bash
