@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/cymru/ert/skel">
+    <file preprocess="xml-stripblanks">data/ui/window.ui</file>
+    <file preprocess="xml-stripblanks">data/ui/menu.ui</file>
+  </gresource>
+</gresources>
